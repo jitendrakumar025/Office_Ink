@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.11127afe.js",
+    "static/media/OfficeINK_fullLOGO.png": "/static/media/OfficeINK_fullLOGO.d4ac5f0ecca7d77df453.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.11127afe.js.map": "/static/js/main.11127afe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.11127afe.js"
+  ]
+}
